@@ -1,5 +1,3 @@
-Voici un README clair et opérationnel.
-
 # Projet — Prévision de la demande 2025, analyse spatio-temporelle, assistant LLM
 
 ## Objectif
