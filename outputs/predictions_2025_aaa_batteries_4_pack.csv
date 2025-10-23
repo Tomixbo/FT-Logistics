@@ -1,0 +1,121 @@
+Product,City_state,period,Predicted_demand
+AAA Batteries (4-pack),Atlanta (GA),2025-01,436
+AAA Batteries (4-pack),Atlanta (GA),2025-02,447
+AAA Batteries (4-pack),Atlanta (GA),2025-03,387
+AAA Batteries (4-pack),Atlanta (GA),2025-04,385
+AAA Batteries (4-pack),Atlanta (GA),2025-05,377
+AAA Batteries (4-pack),Atlanta (GA),2025-06,286
+AAA Batteries (4-pack),Atlanta (GA),2025-07,294
+AAA Batteries (4-pack),Atlanta (GA),2025-08,274
+AAA Batteries (4-pack),Atlanta (GA),2025-09,253
+AAA Batteries (4-pack),Atlanta (GA),2025-10,396
+AAA Batteries (4-pack),Atlanta (GA),2025-11,409
+AAA Batteries (4-pack),Atlanta (GA),2025-12,411
+AAA Batteries (4-pack),Austin (TX),2025-01,437
+AAA Batteries (4-pack),Austin (TX),2025-02,447
+AAA Batteries (4-pack),Austin (TX),2025-03,389
+AAA Batteries (4-pack),Austin (TX),2025-04,386
+AAA Batteries (4-pack),Austin (TX),2025-05,379
+AAA Batteries (4-pack),Austin (TX),2025-06,286
+AAA Batteries (4-pack),Austin (TX),2025-07,294
+AAA Batteries (4-pack),Austin (TX),2025-08,274
+AAA Batteries (4-pack),Austin (TX),2025-09,253
+AAA Batteries (4-pack),Austin (TX),2025-10,396
+AAA Batteries (4-pack),Austin (TX),2025-11,409
+AAA Batteries (4-pack),Austin (TX),2025-12,411
+AAA Batteries (4-pack),Boston (MA),2025-01,418
+AAA Batteries (4-pack),Boston (MA),2025-02,433
+AAA Batteries (4-pack),Boston (MA),2025-03,378
+AAA Batteries (4-pack),Boston (MA),2025-04,373
+AAA Batteries (4-pack),Boston (MA),2025-05,357
+AAA Batteries (4-pack),Boston (MA),2025-06,275
+AAA Batteries (4-pack),Boston (MA),2025-07,287
+AAA Batteries (4-pack),Boston (MA),2025-08,266
+AAA Batteries (4-pack),Boston (MA),2025-09,247
+AAA Batteries (4-pack),Boston (MA),2025-10,381
+AAA Batteries (4-pack),Boston (MA),2025-11,387
+AAA Batteries (4-pack),Boston (MA),2025-12,392
+AAA Batteries (4-pack),Dallas (TX),2025-01,433
+AAA Batteries (4-pack),Dallas (TX),2025-02,446
+AAA Batteries (4-pack),Dallas (TX),2025-03,383
+AAA Batteries (4-pack),Dallas (TX),2025-04,378
+AAA Batteries (4-pack),Dallas (TX),2025-05,371
+AAA Batteries (4-pack),Dallas (TX),2025-06,275
+AAA Batteries (4-pack),Dallas (TX),2025-07,286
+AAA Batteries (4-pack),Dallas (TX),2025-08,269
+AAA Batteries (4-pack),Dallas (TX),2025-09,247
+AAA Batteries (4-pack),Dallas (TX),2025-10,395
+AAA Batteries (4-pack),Dallas (TX),2025-11,406
+AAA Batteries (4-pack),Dallas (TX),2025-12,407
+AAA Batteries (4-pack),Los Angeles (CA),2025-01,481
+AAA Batteries (4-pack),Los Angeles (CA),2025-02,496
+AAA Batteries (4-pack),Los Angeles (CA),2025-03,441
+AAA Batteries (4-pack),Los Angeles (CA),2025-04,435
+AAA Batteries (4-pack),Los Angeles (CA),2025-05,410
+AAA Batteries (4-pack),Los Angeles (CA),2025-06,322
+AAA Batteries (4-pack),Los Angeles (CA),2025-07,330
+AAA Batteries (4-pack),Los Angeles (CA),2025-08,311
+AAA Batteries (4-pack),Los Angeles (CA),2025-09,389
+AAA Batteries (4-pack),Los Angeles (CA),2025-10,542
+AAA Batteries (4-pack),Los Angeles (CA),2025-11,505
+AAA Batteries (4-pack),Los Angeles (CA),2025-12,467
+AAA Batteries (4-pack),New York City (NY),2025-01,444
+AAA Batteries (4-pack),New York City (NY),2025-02,453
+AAA Batteries (4-pack),New York City (NY),2025-03,399
+AAA Batteries (4-pack),New York City (NY),2025-04,401
+AAA Batteries (4-pack),New York City (NY),2025-05,396
+AAA Batteries (4-pack),New York City (NY),2025-06,296
+AAA Batteries (4-pack),New York City (NY),2025-07,302
+AAA Batteries (4-pack),New York City (NY),2025-08,268
+AAA Batteries (4-pack),New York City (NY),2025-09,260
+AAA Batteries (4-pack),New York City (NY),2025-10,421
+AAA Batteries (4-pack),New York City (NY),2025-11,402
+AAA Batteries (4-pack),New York City (NY),2025-12,415
+AAA Batteries (4-pack),Portland (ME),2025-01,24
+AAA Batteries (4-pack),Portland (ME),2025-02,27
+AAA Batteries (4-pack),Portland (ME),2025-03,33
+AAA Batteries (4-pack),Portland (ME),2025-04,29
+AAA Batteries (4-pack),Portland (ME),2025-05,23
+AAA Batteries (4-pack),Portland (ME),2025-06,31
+AAA Batteries (4-pack),Portland (ME),2025-07,34
+AAA Batteries (4-pack),Portland (ME),2025-08,20
+AAA Batteries (4-pack),Portland (ME),2025-09,18
+AAA Batteries (4-pack),Portland (ME),2025-10,28
+AAA Batteries (4-pack),Portland (ME),2025-11,31
+AAA Batteries (4-pack),Portland (ME),2025-12,29
+AAA Batteries (4-pack),Portland (OR),2025-01,437
+AAA Batteries (4-pack),Portland (OR),2025-02,447
+AAA Batteries (4-pack),Portland (OR),2025-03,389
+AAA Batteries (4-pack),Portland (OR),2025-04,386
+AAA Batteries (4-pack),Portland (OR),2025-05,379
+AAA Batteries (4-pack),Portland (OR),2025-06,286
+AAA Batteries (4-pack),Portland (OR),2025-07,294
+AAA Batteries (4-pack),Portland (OR),2025-08,274
+AAA Batteries (4-pack),Portland (OR),2025-09,253
+AAA Batteries (4-pack),Portland (OR),2025-10,395
+AAA Batteries (4-pack),Portland (OR),2025-11,409
+AAA Batteries (4-pack),Portland (OR),2025-12,411
+AAA Batteries (4-pack),San Francisco (CA),2025-01,592
+AAA Batteries (4-pack),San Francisco (CA),2025-02,609
+AAA Batteries (4-pack),San Francisco (CA),2025-03,550
+AAA Batteries (4-pack),San Francisco (CA),2025-04,575
+AAA Batteries (4-pack),San Francisco (CA),2025-05,582
+AAA Batteries (4-pack),San Francisco (CA),2025-06,555
+AAA Batteries (4-pack),San Francisco (CA),2025-07,589
+AAA Batteries (4-pack),San Francisco (CA),2025-08,556
+AAA Batteries (4-pack),San Francisco (CA),2025-09,559
+AAA Batteries (4-pack),San Francisco (CA),2025-10,618
+AAA Batteries (4-pack),San Francisco (CA),2025-11,612
+AAA Batteries (4-pack),San Francisco (CA),2025-12,583
+AAA Batteries (4-pack),Seattle (WA),2025-01,430
+AAA Batteries (4-pack),Seattle (WA),2025-02,441
+AAA Batteries (4-pack),Seattle (WA),2025-03,386
+AAA Batteries (4-pack),Seattle (WA),2025-04,382
+AAA Batteries (4-pack),Seattle (WA),2025-05,375
+AAA Batteries (4-pack),Seattle (WA),2025-06,283
+AAA Batteries (4-pack),Seattle (WA),2025-07,295
+AAA Batteries (4-pack),Seattle (WA),2025-08,272
+AAA Batteries (4-pack),Seattle (WA),2025-09,249
+AAA Batteries (4-pack),Seattle (WA),2025-10,395
+AAA Batteries (4-pack),Seattle (WA),2025-11,404
+AAA Batteries (4-pack),Seattle (WA),2025-12,409

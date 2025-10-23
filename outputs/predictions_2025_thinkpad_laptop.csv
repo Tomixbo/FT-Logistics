@@ -1,0 +1,121 @@
+Product,City_state,period,Predicted_demand
+ThinkPad Laptop,Atlanta (GA),2025-01,83
+ThinkPad Laptop,Atlanta (GA),2025-02,84
+ThinkPad Laptop,Atlanta (GA),2025-03,72
+ThinkPad Laptop,Atlanta (GA),2025-04,66
+ThinkPad Laptop,Atlanta (GA),2025-05,68
+ThinkPad Laptop,Atlanta (GA),2025-06,65
+ThinkPad Laptop,Atlanta (GA),2025-07,65
+ThinkPad Laptop,Atlanta (GA),2025-08,64
+ThinkPad Laptop,Atlanta (GA),2025-09,62
+ThinkPad Laptop,Atlanta (GA),2025-10,82
+ThinkPad Laptop,Atlanta (GA),2025-11,82
+ThinkPad Laptop,Atlanta (GA),2025-12,83
+ThinkPad Laptop,Austin (TX),2025-01,83
+ThinkPad Laptop,Austin (TX),2025-02,82
+ThinkPad Laptop,Austin (TX),2025-03,71
+ThinkPad Laptop,Austin (TX),2025-04,65
+ThinkPad Laptop,Austin (TX),2025-05,69
+ThinkPad Laptop,Austin (TX),2025-06,64
+ThinkPad Laptop,Austin (TX),2025-07,63
+ThinkPad Laptop,Austin (TX),2025-08,63
+ThinkPad Laptop,Austin (TX),2025-09,61
+ThinkPad Laptop,Austin (TX),2025-10,80
+ThinkPad Laptop,Austin (TX),2025-11,81
+ThinkPad Laptop,Austin (TX),2025-12,81
+ThinkPad Laptop,Boston (MA),2025-01,82
+ThinkPad Laptop,Boston (MA),2025-02,83
+ThinkPad Laptop,Boston (MA),2025-03,70
+ThinkPad Laptop,Boston (MA),2025-04,69
+ThinkPad Laptop,Boston (MA),2025-05,66
+ThinkPad Laptop,Boston (MA),2025-06,63
+ThinkPad Laptop,Boston (MA),2025-07,62
+ThinkPad Laptop,Boston (MA),2025-08,62
+ThinkPad Laptop,Boston (MA),2025-09,60
+ThinkPad Laptop,Boston (MA),2025-10,80
+ThinkPad Laptop,Boston (MA),2025-11,80
+ThinkPad Laptop,Boston (MA),2025-12,80
+ThinkPad Laptop,Dallas (TX),2025-01,83
+ThinkPad Laptop,Dallas (TX),2025-02,82
+ThinkPad Laptop,Dallas (TX),2025-03,71
+ThinkPad Laptop,Dallas (TX),2025-04,65
+ThinkPad Laptop,Dallas (TX),2025-05,69
+ThinkPad Laptop,Dallas (TX),2025-06,64
+ThinkPad Laptop,Dallas (TX),2025-07,63
+ThinkPad Laptop,Dallas (TX),2025-08,63
+ThinkPad Laptop,Dallas (TX),2025-09,61
+ThinkPad Laptop,Dallas (TX),2025-10,81
+ThinkPad Laptop,Dallas (TX),2025-11,81
+ThinkPad Laptop,Dallas (TX),2025-12,81
+ThinkPad Laptop,Los Angeles (CA),2025-01,82
+ThinkPad Laptop,Los Angeles (CA),2025-02,83
+ThinkPad Laptop,Los Angeles (CA),2025-03,72
+ThinkPad Laptop,Los Angeles (CA),2025-04,66
+ThinkPad Laptop,Los Angeles (CA),2025-05,68
+ThinkPad Laptop,Los Angeles (CA),2025-06,65
+ThinkPad Laptop,Los Angeles (CA),2025-07,64
+ThinkPad Laptop,Los Angeles (CA),2025-08,63
+ThinkPad Laptop,Los Angeles (CA),2025-09,62
+ThinkPad Laptop,Los Angeles (CA),2025-10,81
+ThinkPad Laptop,Los Angeles (CA),2025-11,82
+ThinkPad Laptop,Los Angeles (CA),2025-12,82
+ThinkPad Laptop,New York City (NY),2025-01,74
+ThinkPad Laptop,New York City (NY),2025-02,74
+ThinkPad Laptop,New York City (NY),2025-03,64
+ThinkPad Laptop,New York City (NY),2025-04,66
+ThinkPad Laptop,New York City (NY),2025-05,64
+ThinkPad Laptop,New York City (NY),2025-06,60
+ThinkPad Laptop,New York City (NY),2025-07,59
+ThinkPad Laptop,New York City (NY),2025-08,57
+ThinkPad Laptop,New York City (NY),2025-09,55
+ThinkPad Laptop,New York City (NY),2025-10,70
+ThinkPad Laptop,New York City (NY),2025-11,72
+ThinkPad Laptop,New York City (NY),2025-12,73
+ThinkPad Laptop,Portland (ME),2025-01,83
+ThinkPad Laptop,Portland (ME),2025-02,82
+ThinkPad Laptop,Portland (ME),2025-03,71
+ThinkPad Laptop,Portland (ME),2025-04,65
+ThinkPad Laptop,Portland (ME),2025-05,69
+ThinkPad Laptop,Portland (ME),2025-06,64
+ThinkPad Laptop,Portland (ME),2025-07,63
+ThinkPad Laptop,Portland (ME),2025-08,63
+ThinkPad Laptop,Portland (ME),2025-09,61
+ThinkPad Laptop,Portland (ME),2025-10,80
+ThinkPad Laptop,Portland (ME),2025-11,81
+ThinkPad Laptop,Portland (ME),2025-12,81
+ThinkPad Laptop,Portland (OR),2025-01,83
+ThinkPad Laptop,Portland (OR),2025-02,82
+ThinkPad Laptop,Portland (OR),2025-03,71
+ThinkPad Laptop,Portland (OR),2025-04,65
+ThinkPad Laptop,Portland (OR),2025-05,69
+ThinkPad Laptop,Portland (OR),2025-06,64
+ThinkPad Laptop,Portland (OR),2025-07,63
+ThinkPad Laptop,Portland (OR),2025-08,62
+ThinkPad Laptop,Portland (OR),2025-09,61
+ThinkPad Laptop,Portland (OR),2025-10,80
+ThinkPad Laptop,Portland (OR),2025-11,81
+ThinkPad Laptop,Portland (OR),2025-12,81
+ThinkPad Laptop,San Francisco (CA),2025-01,89
+ThinkPad Laptop,San Francisco (CA),2025-02,89
+ThinkPad Laptop,San Francisco (CA),2025-03,79
+ThinkPad Laptop,San Francisco (CA),2025-04,78
+ThinkPad Laptop,San Francisco (CA),2025-05,75
+ThinkPad Laptop,San Francisco (CA),2025-06,70
+ThinkPad Laptop,San Francisco (CA),2025-07,68
+ThinkPad Laptop,San Francisco (CA),2025-08,76
+ThinkPad Laptop,San Francisco (CA),2025-09,70
+ThinkPad Laptop,San Francisco (CA),2025-10,95
+ThinkPad Laptop,San Francisco (CA),2025-11,91
+ThinkPad Laptop,San Francisco (CA),2025-12,92
+ThinkPad Laptop,Seattle (WA),2025-01,83
+ThinkPad Laptop,Seattle (WA),2025-02,82
+ThinkPad Laptop,Seattle (WA),2025-03,71
+ThinkPad Laptop,Seattle (WA),2025-04,65
+ThinkPad Laptop,Seattle (WA),2025-05,69
+ThinkPad Laptop,Seattle (WA),2025-06,64
+ThinkPad Laptop,Seattle (WA),2025-07,63
+ThinkPad Laptop,Seattle (WA),2025-08,63
+ThinkPad Laptop,Seattle (WA),2025-09,61
+ThinkPad Laptop,Seattle (WA),2025-10,80
+ThinkPad Laptop,Seattle (WA),2025-11,81
+ThinkPad Laptop,Seattle (WA),2025-12,81
